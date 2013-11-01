@@ -41,3 +41,5 @@ group :test do
   gem 'email_spec'
   gem 'launchy'
 end
+
+gem "acts_as_follower", '~> 0.1.1'
